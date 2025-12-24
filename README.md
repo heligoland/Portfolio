@@ -21,7 +21,7 @@ I approach each project with curiosity, analytical thinking, and a commitment to
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, PowerShell (learning), Markdown  
+- **Languages:** Python, PowerShell, Markdown  
 - **Version Control:** Git & GitHub  
 - **Workflow:** Clean formatting, structured documentation, and iterative improvement  
 - **Focus Areas:** Algorithms, file handling, automation, debugging, and best practices

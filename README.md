@@ -1,4 +1,4 @@
-# 🌟 My Developer Portfolio
+# My Developer Portfolio
 
 Welcome to my portfolio repository — a growing collection of projects created as I learn, experiment, and refine my skills as a developer. This space showcases my journey from foundational programming concepts to more structured, real‑world problem‑solving.  
 
